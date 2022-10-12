@@ -1,0 +1,22 @@
+body
+{
+    background-color: yellowgreen
+}
+
+#score
+{
+    font-size: large;
+    margin-right: 1060px;
+}
+
+#timer
+{
+    font-size: large;
+    float: right;
+    margin-right: 60px;
+}
+
+#sketchtodraw
+{
+    color: red;
+}
